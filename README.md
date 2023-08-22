@@ -1,6 +1,6 @@
 # zkrollapp
 
-## que son las Zkrollapps?
+## Que son las Zkrollapps?
 1. [Principales caracteristicas](#Principales-caracteristicas)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
